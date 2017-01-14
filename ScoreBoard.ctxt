@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScoreBoard()
+comment1.params=
+comment1.target=void\ update()
+comment2.params=winner
+comment2.target=void\ gameOver(int)
+comment3.params=
+comment3.target=void\ increasePlayer()
+comment4.params=
+comment4.target=void\ increaseComputer()
+comment5.params=
+comment5.target=void\ reset()
+numComments=6
